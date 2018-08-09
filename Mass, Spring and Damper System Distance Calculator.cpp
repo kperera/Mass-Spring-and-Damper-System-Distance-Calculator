@@ -1,6 +1,5 @@
 //Kenneth Perera
-//ENGR50
-//Project Fall 2015
+//Mass, Spring and Damper System Distance Calculator
 
 #include <iostream>
 #include <iomanip>
