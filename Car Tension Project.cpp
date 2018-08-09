@@ -1,6 +1,5 @@
 //Kenneth Perera
-//ENGR50
-//Project Fall 2015
+//Car Tension Project
 
 #include <iostream>
 #include <iomanip>
