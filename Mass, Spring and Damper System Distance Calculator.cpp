@@ -5,7 +5,7 @@
 #include <iomanip>
 #include <fstream>
 #include <cmath>
-#include "c:\dislin\dislin.h"
+#include "c:\dislin\dislin.h" // DOWNLOAD DISLIN HERE: http://www.mps.mpg.de/dislin/distributions
 using namespace std;
 
 //global constants
